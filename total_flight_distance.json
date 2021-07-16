@@ -1,0 +1,17 @@
+[
+    {
+        "mode": "NULLABLE",
+        "name": "flight_date",
+        "type": "DATE"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "airline_code",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "distance",
+        "type": "INTEGER"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "mode": "REQUIRED",
+        "name": "id",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "flight_date",
+        "type": "DATE"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "airline_code",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "flight_num",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "source_airport",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "destination_airport",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "departure_time",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "departure_delay",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "arrival_time",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "arrival_delay",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "airtime",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "distance",
+        "type": "INTEGER"
+    }
+]
